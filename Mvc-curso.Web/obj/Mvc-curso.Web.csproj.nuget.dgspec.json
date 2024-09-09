@@ -1,0 +1,235 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Web\\Mvc-curso.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\Mvc-curso.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\Mvc-curso.Domain.csproj",
+        "projectName": "Mvc-curso.Domain",
+        "projectPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\Mvc-curso.Domain.csproj",
+        "packagesPath": "C:\\Users\\leocu\\.nuget\\packages\\",
+        "outputPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\Mvc-curso.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\Mvc-curso.Infrastructure.csproj",
+        "projectName": "Mvc-curso.Infrastructure",
+        "projectPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\Mvc-curso.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\leocu\\.nuget\\packages\\",
+        "outputPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\Mvc-curso.Domain.csproj": {
+                "projectPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Domain\\Mvc-curso.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Web\\Mvc-curso.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Web\\Mvc-curso.Web.csproj",
+        "projectName": "Mvc-curso.Web",
+        "projectPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Web\\Mvc-curso.Web.csproj",
+        "packagesPath": "C:\\Users\\leocu\\.nuget\\packages\\",
+        "outputPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leocu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\Mvc-curso.Infrastructure.csproj": {
+                "projectPath": "C:\\UNC\\Cursos\\Free\\Mvc-curso-Solution\\Mvc-curso.Infrastructure\\Mvc-curso.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

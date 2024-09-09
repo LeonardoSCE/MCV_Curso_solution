@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Mvc-curso.Domain/1.0.0": {
+        "runtime": {
+          "Mvc-curso.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mvc-curso.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,22 @@
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.deps.json
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.AssemblyInfoInputs.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.AssemblyInfo.cs
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\refint\Mvc-curso.Domain.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\ref\Mvc-curso.Domain.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.deps.json
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\bin\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.AssemblyInfoInputs.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.AssemblyInfo.cs
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.csproj.CoreCompileInputs.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\refint\Mvc-curso.Domain.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Domain\obj\Debug\net8.0\ref\Mvc-curso.Domain.dll

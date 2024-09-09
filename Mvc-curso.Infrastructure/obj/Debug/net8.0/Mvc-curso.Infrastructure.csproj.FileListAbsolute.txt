@@ -1,0 +1,34 @@
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.deps.json
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.runtimeconfig.json
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.pdb
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Domain.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.AssemblyInfo.cs
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curs.78AC99AA.Up2Date
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\refint\Mvc-curso.Infrastructure.dll
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.pdb
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.genruntimeconfig.cache
+C:\Users\leocu\OneDrive - unc.edu.pe\UNC\Curso\freeTime\Net8_CleanArchitecture\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\ref\Mvc-curso.Infrastructure.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.deps.json
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.runtimeconfig.json
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Infrastructure.pdb
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Domain.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\bin\Debug\net8.0\Mvc-curso.Domain.pdb
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.csproj.AssemblyReference.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.AssemblyInfoInputs.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.AssemblyInfo.cs
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.csproj.CoreCompileInputs.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curs.78AC99AA.Up2Date
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\refint\Mvc-curso.Infrastructure.dll
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.pdb
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\Mvc-curso.Infrastructure.genruntimeconfig.cache
+C:\UNC\Cursos\Free\Mvc-curso-Solution\Mvc-curso.Infrastructure\obj\Debug\net8.0\ref\Mvc-curso.Infrastructure.dll
